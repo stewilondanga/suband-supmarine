@@ -131,7 +131,7 @@ sub {
   border-color: transparent transparent transparent white;
 }
 
-/*.boat-2 {
+.boat-2 {
   position: absolute;
   right: 35%;
   bottom: 0;
@@ -140,7 +140,7 @@ sub {
   z-index: 5;
 }
 
-.boat-2 .mast {
+/*.boat-2 .mast {
   top: -120%;
   transform: rotate(45deg);
 }
