@@ -52,7 +52,7 @@ sub {
   z-index: 2;
 }
 
-/*.ground {
+.ground {
   display: block;
   position: absolute;
   left: 0;
@@ -63,7 +63,7 @@ sub {
   z-index: 5;
 }
 
-.ground::before {
+/*.ground::before {
   content: '';
   display: block;
   position: absolute;
