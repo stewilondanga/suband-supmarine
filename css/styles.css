@@ -331,7 +331,7 @@ sub {
   font-weight: normal;
   text-align: center;
   color: #c0c0c0;
-  padding-top: 50px;
+  padding-top: 10px;
   padding-bottom: 10px;
   width: 375px;
   margin: 0 auto;
@@ -353,7 +353,7 @@ sub {
   transition: all 0.4s linear;
 }
 
-/*.cal caption {
+.cal caption {
   background: #d44;
   color: #eee;
   font-size: 15px;
@@ -364,7 +364,7 @@ sub {
   line-height: 200%;
 }
 
-.cal th:first-child {
+/*.cal th:first-child {
   color: #f00;
 }
 
