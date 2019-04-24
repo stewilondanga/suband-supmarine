@@ -216,15 +216,14 @@ sub {
   }
 }
 
-/*
 .submarine-wrapper {
   position: absolute;
   left: 50%;
-  transform: translate3d(0,35px,0);
+  transform: translate3d(0, 35px, 0);
   animation: surface 30000ms ease-in-out infinite;
 }
 
-.submarine {
+/*.submarine {
   display: block;
   position: absolute;
   left: 50%;
