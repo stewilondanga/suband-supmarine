@@ -305,11 +305,11 @@ sub {
   left: 32%;
 }
 
-/*.port-hole-2 {
+.port-hole-2 {
   left: 57%;
 }
 
-.alt-words::before {
+/*.alt-words::before {
   content: 'S.U.P.';
   position: absolute;
   left: 45%;
