@@ -177,10 +177,9 @@ sub {
   }
 }
 
-/*
 @keyframes surface {
   0% {
-    transform: translate3d(0,35px,0);
+    transform: translate3d(0, 35px, 0);
     z-index: 4;
   }
 
@@ -190,11 +189,12 @@ sub {
   }
 
   100% {
-    transform: translate3d(0,35px,0);
+    transform: translate3d(0, 35px, 0);
     z-index: 4;
   }
 }
 
+/*
 @keyframes text-swap {
   0% {
     content: "S.U.P";
