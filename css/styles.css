@@ -237,7 +237,7 @@ sub {
   animation: boat-bobble 3500ms ease-out infinite;
 }
 
-/*.periscope-base {
+.periscope-base {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -251,7 +251,7 @@ sub {
   z-index: 4;
 }
 
-.periscope-base::before {
+/*.periscope-base::before {
   content: '';
   display: block;
   position: absolute;
