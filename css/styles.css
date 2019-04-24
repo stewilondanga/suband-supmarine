@@ -301,11 +301,11 @@ sub {
   background-image: linear-gradient(to bottom, #30cfd0 0%, #330867 100%);
 }
 
-/*.port-hole-1 {
+.port-hole-1 {
   left: 32%;
 }
 
-.port-hole-2 {
+/*.port-hole-2 {
   left: 57%;
 }
 
