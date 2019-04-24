@@ -140,12 +140,12 @@ sub {
   z-index: 5;
 }
 
-/*.boat-2 .mast {
+.boat-2 .mast {
   top: -120%;
   transform: rotate(45deg);
 }
 
-.hull {
+/*.hull {
   position: relative;
   color: white;
   text-align: center;
