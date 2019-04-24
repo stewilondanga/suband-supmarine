@@ -287,7 +287,7 @@ sub {
   z-index: 3;
 }
 
-/*.port-hole::before {
+.port-hole::before {
   content: '';
   display: block;
   position: absolute;
@@ -301,7 +301,7 @@ sub {
   background-image: linear-gradient(to bottom, #30cfd0 0%, #330867 100%);
 }
 
-.port-hole-1 {
+/*.port-hole-1 {
   left: 32%;
 }
 
