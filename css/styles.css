@@ -227,7 +227,7 @@ sub {
   display: block;
   position: absolute;
   left: 50%;
-  bottom: 1%;
+  bottom: 0.5%;
   background-color: grey;
   border-radius: 45px;
   border: 2px solid black;
