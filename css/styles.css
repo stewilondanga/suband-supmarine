@@ -63,7 +63,7 @@ sub {
   z-index: 5;
 }
 
-/*.ground::before {
+.ground::before {
   content: '';
   display: block;
   position: absolute;
@@ -75,7 +75,7 @@ sub {
   background-color: inherit;
 }
 
-.ground::after {
+/*.ground::after {
   content: '';
   display: block;
   position: absolute;
