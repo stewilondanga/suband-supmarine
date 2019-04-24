@@ -145,7 +145,7 @@ sub {
   transform: rotate(45deg);
 }
 
-/*.hull {
+.hull {
   position: relative;
   color: white;
   text-align: center;
@@ -159,7 +159,7 @@ sub {
   z-index: 2;
 }
 
-.boat-2 .hull {
+/*.boat-2 .hull {
   background: linear-gradient(to bottom, #605c3c, #000000);
 }
 
