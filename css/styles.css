@@ -75,7 +75,7 @@ sub {
   background-color: inherit;
 }
 
-/*.ground::after {
+.ground::after {
   content: '';
   display: block;
   position: absolute;
@@ -87,7 +87,7 @@ sub {
   background-color: inherit;
 }
 
-.horizon-line {
+/*.horizon-line {
   display: block;
   padding: 0;
   margin: 0;
