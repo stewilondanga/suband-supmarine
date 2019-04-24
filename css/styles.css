@@ -159,11 +159,11 @@ sub {
   z-index: 2;
 }
 
-/*.boat-2 .hull {
+.boat-2 .hull {
   background: linear-gradient(to bottom, #605c3c, #000000);
 }
 
-@keyframes sub-bobble {
+/*@keyframes sub-bobble {
   0 {
     transform: translate3d(0,0,0) rotate(0);
   }
