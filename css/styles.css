@@ -223,11 +223,11 @@ sub {
   animation: surface 30000ms ease-in-out infinite;
 }
 
-/*.submarine {
+.submarine {
   display: block;
   position: absolute;
   left: 50%;
-  bottom: 20%;
+  bottom: 1%;
   background-color: grey;
   border-radius: 45px;
   border: 2px solid black;
@@ -237,7 +237,7 @@ sub {
   animation: boat-bobble 3500ms ease-out infinite;
 }
 
-.periscope-base {
+/*.periscope-base {
   display: flex;
   justify-content: center;
   align-items: center;
