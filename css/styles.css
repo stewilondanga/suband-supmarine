@@ -7,6 +7,12 @@ body {
   font-size: 18px;
 }
 
+body {
+  display: flex;
+  align-items: center;
+  background-color: skyblue;
+}
+
 /*
 .my_social {
   position: absolute;
@@ -23,11 +29,6 @@ body {
   height: 1.5em;
 }
 
-body {
-  display: flex;
-  align-items: center;
-  background-color: skyblue;
-}
 
 sub {
   position: relative;
