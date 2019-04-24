@@ -119,7 +119,7 @@ sub {
   background: linear-gradient(to top, #3c3b3f, #605c3c);
 }
 
-/*.sail {
+.sail {
   display: block;
   position: absolute;
   right: 18px;
@@ -131,7 +131,7 @@ sub {
   border-color: transparent transparent transparent white;
 }
 
-.boat-2 {
+/*.boat-2 {
   position: absolute;
   right: 35%;
   bottom: 0;
