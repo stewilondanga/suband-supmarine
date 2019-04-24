@@ -309,19 +309,19 @@ sub {
   left: 57%;
 }
 
-/*.alt-words::before {
+.alt-words::before {
   content: 'S.U.P.';
   position: absolute;
   left: 45%;
-  top: -26%;
+  top: 26%;
   display: block;
   font-size: 22px;
   color: white;
   z-index: 5;
-  animation: text-swap 30000ms linear infinite;
+  animation: text-swap 10000ms linear infinite;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
