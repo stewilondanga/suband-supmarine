@@ -194,7 +194,6 @@ sub {
   }
 }
 
-/*
 @keyframes text-swap {
   0% {
     content: "S.U.P";
@@ -217,6 +216,7 @@ sub {
   }
 }
 
+/*
 .submarine-wrapper {
   position: absolute;
   left: 50%;
