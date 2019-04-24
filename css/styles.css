@@ -263,7 +263,7 @@ sub {
   border-top-left-radius: 50%;
 }
 
-/*.periscope-base::after {
+.periscope-base::after {
   content: '';
   display: block;
   position: absolute;
@@ -274,7 +274,7 @@ sub {
   background-color: black;
 }
 
-.port-hole {
+/*.port-hole {
   display: block;
   position: absolute;
   top: 25%;
