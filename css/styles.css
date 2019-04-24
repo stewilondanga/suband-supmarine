@@ -102,14 +102,14 @@ sub {
   position: relative;
 }
 
-/*.boat {
+.boat {
   position: absolute;
   right: -35%;
   position: relative;
   display: inline-block;
 }
 
-.mast {
+/*.mast {
   position: absolute;
   top: -134%;
   left: 58%;
